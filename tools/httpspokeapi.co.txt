@@ -1,0 +1,20 @@
+https://pokeapi.co/
+pokeapi.copokeapi.co
+PokéAPI
+An open RESTful API for Pokémon data (15 kB)
+
+
+utilicen los recursos que hay en la web para que no empiecen en ceros: https://codepen.io/FlorinPop17/pen/gOYZxyE
+CodePenCodePen
+Pokedex - #006 of #100Days100Projects
+This project is part of the #100Days100Projects challenge. Check it out here: https://www.florin-pop.com/blog/2019/09/100-days-100-projects... (40 kB)
+
+
+https://www.freecodecamp.org/news/github-student-developer-pack/?fbclid=IwAR3DcibT9wnPwczpDiR2GcjHq7biHkLHH_P9HUBg2MATWxW5k5F6W9_RrYU
+freeCodeCamp.orgfreeCodeCamp.org
+How to Get a GitHub Student Developer Pack
+For many students who are passionate about technology, limited access to crucial tools and resources is a common challenge. Fortunately, the GitHub Student Developer Pack comes to the rescue. This pack provides students with exclusive access to a variety of top-notch developer tools, allowing them to learn through practical
+Written by
+Salim Oyinlola
+Filed under
+Github, Students, Open Source
