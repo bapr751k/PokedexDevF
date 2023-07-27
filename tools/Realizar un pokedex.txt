@@ -1,0 +1,56 @@
+Realizar un pokedex
+
+Consumir un API de la PokeApi
+
+realizar algo similar a una planilla de Pokemon
+con datos para pintar los pokemons en el Json viene una URL donde viene el pokemon
+
+Iniciar desde codepen.io
+
+vienen ejemplos de pokedex
+
+para partir de el código para poder mejorarlos
+
+https://codepen.io/FlorinPop17/pen/gOYZxyE
+
+COMO CONSUMIR la API de Pokemon
+con request o con fetch()
+
+
+nombre
+tipo de pokemon
+id
+
+
+
+
+Git
+
+commit -m "Creamos nuestro arreglo Jedis"
+
+git push
+
+
+-------------
+el updateJediList seria como el front de la aplicación??
+con los document
+
+Gabriela Canto Granados  to  Everyone 9:12 PM
+bootstrap c?
+
+José Angel Mateos Cortés Mateos Cortés  to  Everyone 9:12 PM
+ocuparía el innerHTML
+
+jesualuján 9:13 PM
+template string
+
+Estudiar los metodos de los arreglos
+
+Algoritmos de orgenamiento
+y como filtrar datos de un arreglo
+
+busquen telecomentrenaminetos
+
+
+
+
